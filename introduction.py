@@ -65,4 +65,6 @@ print(type(string))
 #Mayor o igual a: >=
 #Menor o igual a:<=
 
+#Estos operadores se emplearán mas adelante a la hora de analizar condiciones lógicas con condicionales.
+
 
